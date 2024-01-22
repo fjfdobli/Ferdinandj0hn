@@ -7,20 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Desktop Application Development**
-
-- 🌱 I’m currently learning **programming languages and other software development projects**
-
-- 🤝 I’m looking for help with **my coding skills**
-
-- 👨‍💻 All of my projects are available at [this page](this page)
-
-- 💬 Ask me about **memes and programming concepts**
-
-- 📫 How to reach me: **fjfdobli@addu.edu.ph**
-
-- ⚡ Fun fact **I know nothing**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
